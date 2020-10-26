@@ -102,3 +102,21 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# vscode
+.vscode
+
+*.pyc
+*.bak
+*.dat
+*.dir
+*.pyc
+*~
+*.dot
+*.plt
+*.tab
+logs/*
+tf_logs/*
+
+img/train_karate_animation.mp4
+dsets/
