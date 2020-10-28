@@ -3,7 +3,7 @@
 ```
 git clone https://github.com/KonstantinKlepikov/graph_nets-1.git
 
-git checkout -b orgin/GCN GCN
+git checkout -b GCN orgin/GCN
 
 pip install -r requirements.txt
 ```
