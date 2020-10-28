@@ -1,4 +1,4 @@
-# GCraph Convolutional Networks
+# Graph Convolutional Networks
 
 ## Сетап
 
