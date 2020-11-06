@@ -3,7 +3,7 @@
 ## Сетап
 
 ```
-git clone https://github.com/KonstantinKlepikov/graph_nets-1.git
+git clone https://github.com/KonstantinKlepikov/GCN_lect.git
 
 pip install -r requirements.txt
 ```
